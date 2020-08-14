@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>images/imerse_logo_without_words.png</file>
+    </qresource>
+</RCC>
